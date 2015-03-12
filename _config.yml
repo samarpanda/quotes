@@ -1,0 +1,12 @@
+# Site settings
+title: My Quotes Collection
+email: er.samarpanda.com
+description: Welcome to my Quotes Collection
+baseurl: "/quotes" # the subpath of your site, e.g. /blog/
+url: "http://samarpanda.com" # the base hostname & protocol for your site
+twitter_username: samarpanda
+github_username:  samarpanda
+
+# Build settings
+markdown: redcarpet
+highlighter: pygmentskramdown
