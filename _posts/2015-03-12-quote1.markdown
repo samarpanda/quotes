@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Quotes Collection!"
+title:  "quote1"
 date:   2015-03-12 23:35:11
-categories: jekyll update
+categories: quote
 ---
 
 If you came to conquer,

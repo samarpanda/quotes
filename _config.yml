@@ -10,3 +10,11 @@ github_username:  samarpanda
 # Build settings
 markdown: redcarpet
 highlighter: pygmentskramdown
+
+gems:
+  - octopress-codeblock
+  - octopress-codefence
+  - octopress-solarized
+
+exclude:
+  - .code-highlighter-cache
