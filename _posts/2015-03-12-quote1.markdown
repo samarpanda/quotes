@@ -1,14 +1,14 @@
 ---
-layout: post
+layout: quote
 title:  "quote1"
 date:   2015-03-12 23:35:11
 categories: quote
 ---
 
-If you came to conquer,
+"If you came to conquer,
 you will be king for a day,
 but you too will deteriorate,
-and quickly fade away.
+and quickly fade away."
 
 [jekyll]:      http://jekyllrb.com
 [jekyll-gh]:   https://github.com/jekyll/jekyll
