@@ -447,3 +447,13 @@ pre {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.post-content p {
+  margin-bottom: 30px;
+  font-family: "Cardo", serif;
+  font-size: 36px;
+  line-height: 1.4;
+  font-weight: 400;
+  font-style: italic;
+  -webkit-text-size-adjust: 100%;
+  text-indent: -15px; }

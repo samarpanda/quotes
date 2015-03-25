@@ -3,19 +3,19 @@
   <channel>
     <title>My Quotes Collection</title>
     <description>Welcome to my Quotes Collection</description>
-    <link>http://samarpanda.com/quotes/</link>
-    <atom:link href="http://samarpanda.com/quotes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Mar 2015 23:10:23 +0530</pubDate>
-    <lastBuildDate>Tue, 17 Mar 2015 23:10:23 +0530</lastBuildDate>
+    <link>http://samarpanda.com/</link>
+    <atom:link href="http://samarpanda.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Mar 2015 09:39:14 +0530</pubDate>
+    <lastBuildDate>Wed, 25 Mar 2015 09:39:14 +0530</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
         <title>Quote2</title>
-        <description>&lt;p&gt;If you can dream it, you can do it. - Walt Disney&lt;/p&gt;
+        <description>&lt;p&gt;&amp;quot;If you can dream it, you can do it.&amp;quot; - Walt Disney&lt;/p&gt;
 </description>
         <pubDate>Tue, 17 Mar 2015 22:58:04 +0530</pubDate>
-        <link>http://samarpanda.com/quotes/quote/2015/03/17/quote2.html</link>
-        <guid isPermaLink="true">http://samarpanda.com/quotes/quote/2015/03/17/quote2.html</guid>
+        <link>http://samarpanda.com/quote/2015/03/17/quote2.html</link>
+        <guid isPermaLink="true">http://samarpanda.com/quote/2015/03/17/quote2.html</guid>
         
         
         <category>quote</category>
@@ -24,14 +24,14 @@
     
       <item>
         <title>quote1</title>
-        <description>&lt;p&gt;If you came to conquer,
+        <description>&lt;p&gt;&amp;quot;If you came to conquer,
 you will be king for a day,
 but you too will deteriorate,
-and quickly fade away.&lt;/p&gt;
+and quickly fade away.&amp;quot;&lt;/p&gt;
 </description>
         <pubDate>Fri, 13 Mar 2015 05:05:11 +0530</pubDate>
-        <link>http://samarpanda.com/quotes/quote/2015/03/13/quote1.html</link>
-        <guid isPermaLink="true">http://samarpanda.com/quotes/quote/2015/03/13/quote1.html</guid>
+        <link>http://samarpanda.com/quote/2015/03/13/quote1.html</link>
+        <guid isPermaLink="true">http://samarpanda.com/quote/2015/03/13/quote1.html</guid>
         
         
         <category>quote</category>
